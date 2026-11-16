@@ -1,7 +1,13 @@
-# Studio Mobile 0.2
+# Roblox Studio Mobile — NO OFICIAL
 
-APK de depuración compilada localmente para Android. Uso de prueba.
+Editor móvil experimental e independiente. No está creado ni aprobado por Roblox Corporation.
 
-Descargá `studio-mobile-v0.2-debug.apk` desde este repositorio e instalala en tu teléfono. La app requiere Android 6.0 o posterior y permiso para instalar aplicaciones desde tu navegador o gestor de archivos.
+## APK nueva: versión 0.3
 
-SHA-256: `0CDCFC494BB3A78E602745709FEE6830426106C98FF023B2B1955FF4AE1EB93C`
+[Descargar APK 0.3](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.3-debug.apk)
+
+Incluye inicio, Explorer, escena 3D, editor Luau, catálogo adjunto, guía y términos. Usa un icono original. El acceso con Roblox requiere que el propietario registre una app OAuth y configure su Client ID; todavía no se ha probado con una cuenta real. Es una APK de depuración compilada localmente, sin prueba en teléfono físico.
+
+SHA-256: `9576678473A23404C3DA4A7C9CCBDDD6D4579DC34F18A01B5DA7BA6D44F18597`
+
+[APK anterior 0.2](https://raw.githubusercontent.com/elpapure123/roblox/main/studio-mobile-v0.2-debug.apk)
