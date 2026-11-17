@@ -2,12 +2,14 @@
 
 Editor móvil experimental e independiente. No está creado ni aprobado por Roblox Corporation.
 
-## APK 0.4
+## APK 0.5
 
-[Descargar APK 0.4](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.4-debug.apk)
+[Descargar APK 0.5 para Android](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.5-debug.apk)
 
-Incluye pestañas de inicio, siete plantillas, formas 3D, materiales, Explorer, Propiedades, guía y exportación RBXLX. La publicación actualiza un Place existente mediante la API oficial y necesita Universe ID, Place ID y una API key con permisos. No se probó con credenciales reales. El inicio de sesión OAuth requiere un Client ID propio.
+SHA-256: `eaba9bfda1b433364e9d1cd1e545d59a849e8ebcfb508338786da43ecf1aaf63`
 
-SHA-256: `0CE6427026C2424A880FB82E76C789FEAAB01B0A6F56332092BDD9E2784BC117`
+Esta versión simplifica la pantalla horizontal, añade + en Explorer, permite crear y editar botones GUI visibles en la escena, incluye una guía con capturas y usa una Baseplate de 2048 × 16 × 2048 studs. Compiló localmente con Gradle; no se probó en un teléfono físico.
 
-[APK 0.3](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.3-debug.apk) · [APK 0.2](https://raw.githubusercontent.com/elpapure123/roblox/main/studio-mobile-v0.2-debug.apk)
+El botón Roblox abre el sitio oficial. **Todavía no vincula la cuenta** porque el propietario aún no registró una app OAuth y no hay Client ID configurado. La publicación requiere Universe ID, Place ID y una API key Open Cloud autorizada; **no se probó con credenciales reales**. No introduzcas tu contraseña de Roblox en esta app.
+
+[APK anterior 0.4](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.4-debug.apk) · [APK 0.3](https://raw.githubusercontent.com/elpapure123/roblox/main/roblox-studio-mobile-v0.3-debug.apk) · [APK 0.2](https://raw.githubusercontent.com/elpapure123/roblox/main/studio-mobile-v0.2-debug.apk)
